@@ -1,11 +1,10 @@
-# Publicly-available-datasets-for-EDM
-This is a repository for a collection of publicly available educational data mining (EDM) datasets.<br>
-It is mainly based on the survey paper:
+# Publicly Available Datasets for EDM
+This is a repository for a collection of publicly available educational data mining (EDM) datasets, mainly based on the following survey paper:
 Mihaescu M C, Popescu P S. <b>Review on publicly available datasets for educational data mining</b>. <i>Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery</i>, 2021, 11(3): e1403.<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1403?af=R" target="_blank" rel="noopener"> Link
   </a>
  
-## The name and link of the dataset
-1. Big Data and Education,https://www.upenn.edu/learninganalytics/ryanbaker/bigdataeducation.html
+## Datasets and Resources
+1. Big Data and Education, https://www.upenn.edu/learninganalytics/ryanbaker/bigdataeducation.html
 2. Google Scholar, https://scholar.google.com/
 3. Google Dataset Search, https://datasetsearch.research.google.com/
 4. UCI Machine Learning Repository, https://archive.ics.uci.edu/ml/index.php
@@ -41,12 +40,12 @@ Mihaescu M C, Popescu P S. <b>Review on publicly available datasets for educatio
 34. Short Answer Scoring, https://www.kaggle.com/c/asap-sas
 35. KDD Cup 2015, https://biendata.com/competition/kddcup2015/
 36. Blog by Philippe Fournier-Viger, https://tinyurl.com/y4csoswg
-37. Learning Analytics Hackathon,https://lakathon.org/about/history/
+37. Learning Analytics Hackathon, https://lakathon.org/about/history/
 38. LAVA@UBC: Learning Analytics, Visual Analytics, https://blogs.ubc.ca/lava/events/
 39. Students’ Academic Performance Dataset, https://www.kaggle.com/aljarah/xAPI-Edu-Data
 40. NAEP 2017: ASSISTments Data Mining Competition, https://sites.google.com/view/assistmentsdatamining/home
 41. NAEP 2019: EDM Competition, https://sites.google.com/view/dataminingcompetition2019/
-42. Students Performance In Exams,https://www.kaggle.com/spscientist/students-performance-in-exams
+42. Students Performance In Exams, https://www.kaggle.com/spscientist/students-performance-in-exams
 43. Duolingo Shared Task on Second Language Acquisition Modeling (SLAM), https://sharedtask.duolingo.com/2018.html
 44. STAPLE: Simultaneous Translation And Paraphrase for Language Education, https://sharedtask.duolingo.com/
 45. The CSEDM 2019 Data Challenge, https://sites.google.com/asu.edu/csedm-ws-lak-2019/
@@ -59,10 +58,10 @@ Mihaescu M C, Popescu P S. <b>Review on publicly available datasets for educatio
 52. Multimodal learning Math Data Corpus, http://mla.ucsd.edu/data/
 53. NUS Multi-Sensor Presentation (NUSMSP) Dataset, https://scholarbank.nus.edu.sg/handle/10635/137261
 54. Learn Moodle August 2016, https://research.moodle.org/158/
-55. Lix Puzzle-game Data Set,https://sites.google.com/site/learninganalyticsforall/data-sets/lix-dataset
+55. Lix Puzzle-game Data Set, https://sites.google.com/site/learninganalyticsforall/data-sets/lix-dataset
 56. Student Life Dataset, http://studentlife.cs.dartmouth.edu/
 57. studentlife GitHub repository, https://github.com/frycast/studentlife
 58. Dataset for empirical evaluation of entry requirements, https://tinyurl.com/yxqf2v42
 59. MUTLA, https://tinyurl.com/SAILdata
-60. VLEngagement,https://github.com/sahanbull/context-agnostic-engagement
-61. PEEK,https://github.com/sahanbull/PEEK-Dataset
+60. VLEngagement, https://github.com/sahanbull/context-agnostic-engagement
+61. PEEK, https://github.com/sahanbull/PEEK-Dataset
