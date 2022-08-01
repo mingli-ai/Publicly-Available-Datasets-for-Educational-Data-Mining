@@ -2,6 +2,8 @@
 This is a repository for a collection of publicly available educational data mining (EDM) datasets, mainly based on the following survey paper:
 Mihaescu M C, Popescu P S. <b>Review on publicly available datasets for educational data mining</b>. <i>Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery</i>, 2021, 11(3): e1403.<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.1403?af=R" target="_blank" rel="noopener"> Link
   </a>
+Popescu P S, Mihăescu M C, Mocanu M L. <b>Public Datasets and Data Sources for Educational Data Mining</b>. <i>Data Analytics in e-Learning: Approaches and Applications. Springer, Cham</i>, 2022: 21-42.<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://link.springer.com/chapter/10.1007/978-3-030-96644-7_2" target="_blank" rel="noopener"> Link
+  </a>
  
 ## Datasets and Resources
 1. Big Data and Education, https://www.upenn.edu/learninganalytics/ryanbaker/bigdataeducation.html
